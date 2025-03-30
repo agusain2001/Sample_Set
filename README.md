@@ -43,8 +43,8 @@ A backend system that fetches the latest Instagram post from **bbcnews**, summar
 ## 🛠 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/instagram-x-integration.git
-cd instagram-x-integration
+git clone https://github.com/agusain2001/Sample_Set.git
+cd Sample_set
 
 # Install dependencies
 pip install -r requirements.txt
