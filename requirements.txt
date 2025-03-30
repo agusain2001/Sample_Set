@@ -1,0 +1,7 @@
+# requirements.txt
+apify-client>=1.0.0
+python-dotenv>=0.20.0
+Flask>=2.0.0
+pytest>=6.0.0
+google-generativeai
+tweepy
